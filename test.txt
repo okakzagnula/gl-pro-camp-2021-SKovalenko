@@ -6,3 +6,5 @@ useful link for SSH management:
 
 digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-20-04-ru
 
+forgot syntax at all - git push origin myNewBranch
+
